@@ -15,13 +15,13 @@ Internships / junior roles in backend, infrastructure (DevOps/SRE-adjacent) or d
 - **Reproducibility and automation:** Nix flakes, Docker Compose templates, scripts, and CLIs that simplify environment setup and eliminate repetitive manual tasks.
 ### Featured projects
 - [RyuOS](https://github.com/Richardo2928/RyuOS): Designed a single dotfiles flake managed mainly with **Home Manager** that configures both a NixOS laptop and a Debian desktop from one declarative configuration.
-- [Oracle Cold Backup](https://github.com/Richardo2928/oracle_coldbckup): Automated cold, hot and point-in-time-recovery (PITR) backup and restoration of an **Oracle database** through a **Python CLI** with an interactive terminal UI built with **Rich**, replacing procedures normally run by hand. Built for the Database Administration course.
+- [Oracle Cold Backup](https://github.com/Richardo2928/oracle_coldbckup): Automated cold, hot and point-in-time-recovery (PITR) backup and restoration of an **Oracle database** through a **Python CLI** with an interactive terminal UI built with **Rich**, replacing procedures normally run by hand. Built for the Database Administration university course.
 - [xampp-like-uni-template](https://github.com/Richardo2928/xampp-like-uni-template): Built a XAMPP-style local development template with **Docker Compose** and **Make**, so a local web stack starts from a couple of commands instead of a manual install.
-- [CallTrackApp2](https://github.com/Richardo2928/CallTrackApp2): Implemented a call management app in **C++** with CRUD operations, file-based storage and a custom doubly linked list, with a GUI built on **raygui**. Built for the Data Structures course.
+- [CallTrackApp2](https://github.com/Richardo2928/CallTrackApp2): Implemented a call management app in **C++** with CRUD operations, file-based storage and a custom doubly linked list, with a GUI built on **raygui**. Built for the Data Structures university course.
 ### More projects
  
 **University**
-- [FlightsManager](https://github.com/Richardo2928/FlightsManager): Developed an airport management system in **C** to add, remove, view and search flights by specific criteria. Built for the first-year Programming course.
+- [FlightsManager](https://github.com/Richardo2928/FlightsManager): Developed an airport management system in **C** to add, remove, view and search flights by specific criteria. Built for the first-year Programming university course.
 **Personal tooling**
 - [linux-quick-setup](https://github.com/Richardo2928/linux-quick-setup): Wrote a **Python script** that sets up a Debian-based system with my preferred configuration and software.
 - [dotfiles](https://github.com/Richardo2928/dotfiles): Maintain my personal dotfiles with **GNU Stow**.
@@ -29,8 +29,8 @@ Internships / junior roles in backend, infrastructure (DevOps/SRE-adjacent) or d
 - [my-bash-learning](https://github.com/Richardo2928/my-bash-learning): Keep my Bash learning notes and exercises.
 ### Forks
 - [opera-flake](https://github.com/Richardo2928/opera-flake): Fork of YisuiDenghua/opera-flake, a **Nix Flake** that packages the Opera and Opera GX browsers for Linux.
-- [MyBookNet](https://github.com/Richardo2928/MyBookNet): Fork of ANTOCAZADOR/BookNetOF, a book management system built with **Laravel** and **Livewire**.
-- [MyRedDiamond](https://github.com/Richardo2928/MyRedDiamond): Fork of ANTOCAZADOR/Diamante_rojo, a virtual casino built with **Laravel** for the Software Engineering course.
+- [MyBookNet](https://github.com/Richardo2928/MyBookNet): Fork of ANTOCAZADOR/BookNetOF, a book management system built with **Laravel** and **Livewire** for the internet programming university course.
+- [MyRedDiamond](https://github.com/Richardo2928/MyRedDiamond): Fork of ANTOCAZADOR/Diamante_rojo, a virtual casino built with **Laravel** for the Software Engineering university course.
 ### Contact
 - LinkedIn: [Richardo2928](https://www.linkedin.com/in/richardo2928/)
 - Email: ricardo@thesoftcat.com
