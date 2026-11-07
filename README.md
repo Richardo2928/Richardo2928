@@ -1,6 +1,6 @@
 ## Hi there 👋 Richardo here :D
  
-Software engineering student at CUCEI (Universidad de Guadalajara). I like backend and systems-level work, and I learn best by building things from the ground up.
+Computer Science student (Licenciatura en Ingeniería Informática) at CUCEI, Universidad de Guadalajara. I like backend and systems-level work, and I learn best by building things from the ground up.
  
 ### Currently looking for
 Internships / junior roles in backend, infrastructure (DevOps/SRE-adjacent) or data engineering.
