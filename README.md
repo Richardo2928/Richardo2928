@@ -15,7 +15,7 @@ Internships / junior roles in backend, infrastructure (DevOps/SRE-adjacent) or d
 - **Reproducibility and automation:** Nix flakes, Docker Compose templates, scripts, and CLIs that simplify environment setup and eliminate repetitive manual tasks.
 ### Featured projects
 - [RyuOS](https://github.com/Richardo2928/RyuOS): Designed a single dotfiles flake managed mainly with **Home Manager** that configures both a NixOS laptop and a Debian desktop from one declarative configuration.
-- [Oracle Cold Backup](https://github.com/Richardo2928/oracle_coldbckup): Automated cold, hot and point-in-time-recovery (PITR) backup and restoration of an **Oracle database** through a **Python CLI** with an interactive terminal UI built with **Rich**, replacing procedures normally run by hand. Built for the Database Administration university course.
+- [Oracle Cold Backup](https://github.com/Richardo2928/oracle_coldbckup): Automated cold, hot and point-in-time-recovery (PITR) backup and restoration of an **Oracle database** through a **Python CLI** with a polished terminal output with **Rich**, replacing procedures normally run by hand. Built for the Database Administration university course.
 - [xampp-like-uni-template](https://github.com/Richardo2928/xampp-like-uni-template): Built a XAMPP-style local development template with **Docker Compose** and **Make**, so a local web stack starts from a couple of commands instead of a manual install.
 - [CallTrackApp2](https://github.com/Richardo2928/CallTrackApp2): Implemented a call management app in **C++** with CRUD operations, file-based storage and a custom doubly linked list, with a GUI built on **raygui**. Built for the Data Structures university course.
 ### More projects
